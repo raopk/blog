@@ -28,7 +28,8 @@ twitter_username: rayopk
 github_username:  rayopoku
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
+#theme: minima
 plugins:
   - jekyll-feed
 
